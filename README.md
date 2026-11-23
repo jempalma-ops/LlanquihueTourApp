@@ -128,7 +128,7 @@ Los datos están separados mediante punto y coma (`;`) y cada registro contiene 
 
 **Repositorio GitHub:** https://github.com/jempalma-ops/LlanquihueTourApp
 
-**Fecha de entrega:** [23/noviembre/226]
+**Fecha de entrega:** [23/noviembre/2026]
 
 ---
 
