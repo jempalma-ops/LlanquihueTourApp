@@ -1,0 +1,5 @@
+Tour Volcano;Osorno;30000;Privado;Pago directo del cliente;Naturaleza;Tour de expedición hacia el volcán Osorno
+Tour del Lago;Puerto Varas;20000;SERNATUR;Programa de turismo social;Naturaleza;Experiencias alrededor del lago Llanquihue
+Tour Comida Austral;Frutillar;10000;Caja de compensación;Beneficio para afiliados;Gastronomía;Recorridos relacionados con la comida local
+Tour del Folclore;Puerto Montt;13000;Privado;Pago directo del cliente;Cultura;Experiencias de tradiciones, folclore, música y artesanías
+Tour de la Naturaleza;Puerto Montt;15000;SERNATUR;Programa de turismo social;Naturaleza;Recorridos por parques y reservas naturales nacionales
