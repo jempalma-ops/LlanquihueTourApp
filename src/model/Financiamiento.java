@@ -38,6 +38,6 @@ public class Financiamiento {
     @Override
     public String toString() {
         return "Tipo de financiamiento: " + tipo +
-                ",\nDescripción: " + descripcion;
+                ",\nDescripción de financiamiento: " + descripcion;
     }
 }
